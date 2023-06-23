@@ -1,0 +1,7 @@
+D:\VS2022\Projects VS2022\IPR1_TI\IPR1_TI\x64\Debug\IPR1_TI.vcxproj.AssemblyReference.cache
+D:\VS2022\Projects VS2022\IPR1_TI\IPR1_TI\x64\Debug\IPR1_TI.vcxproj.SuggestedBindingRedirects.cache
+D:\VS2022\Projects VS2022\IPR1_TI\IPR1_TI\x64\Debug\IPR1TI.MainWindow.resources
+D:\VS2022\Projects VS2022\IPR1_TI\IPR1_TI\x64\Debug\IPR1_TI.vcxproj.GenerateResource.cache
+D:\VS2022\Projects VS2022\IPR1_TI\IPR1_TI\x64\Debug\IPR1TI.MainWindow.dje-NE.resources
+D:\VS2022\Projects VS2022\IPR1_TI\IPR1_TI\x64\Debug\IPR1TI.Statistics.resources
+D:\VS2022\Projects VS2022\IPR1_TI\IPR1_TI\x64\Debug\IPR1TI.Analyze.resources
